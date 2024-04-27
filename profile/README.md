@@ -1,4 +1,4 @@
-# ![The Algoview Project](https://raw.githubusercontent.com/AlgoView/Project-scope/main/img/AVPROJECT.jpg)
+# ![The Algoview Project](https://github.com/AlgoView/.github/blob/main/profile/AVPROJECT.jpg)
 An initial documentation, to scope out the requirements and structure of the project.
 ## Introduction
 This is a project for and by algorithmic trading enthousiasts that aim to take their creativity to the next level by unlocking python and AI on the well known Tradingview charts. 
