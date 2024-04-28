@@ -1,8 +1,8 @@
 # ![The Algoview Project](https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg)
 
 ## Introduction
-This is a project for and by algorithmic trading enthousiasts and quantitative analysts that aim to take their creativity to the next level.
-On robust systems we aim to create an easy to use environment usings the well known Tradingview charts.
+This is a project for and by algorithmic trading enthousiasts and quantitative analysts that aim to take their creativity to the next level.<br>
+On robust systems we aim to create an easy to use environment usings the well known **Tradingview charts**.
 
 We do this as much of the work in building good algorithms is done with good analyses, and visualisation.
 Calculations that are done faster, speeds up the process of this type of developing.
