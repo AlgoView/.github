@@ -1,8 +1,5 @@
 <div style="border-radius: 1rem; border: 1px solid #444c56; padding: 1rem; background-color: #353535;">
-
-# ![The Algoview Project](https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg)
-
-
+<img src="https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg" alt="AlgoView Project Banner" style="width: 100%; border-radius: 0.25rem;"/>
 </div>
 
 ## Introduction
