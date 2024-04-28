@@ -40,8 +40,6 @@ if you're looking to get involved, join us on discord, or contact the administra
 * Server monitoring and management tools
 
 ## Roadmap
-The roadmap is a living document and will be modified as the project progresses.<br>
-<br>
 
 ### [Phase 0 `Manual trading tools, single pair data gathering`](https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md#Phase-0)
 
@@ -55,3 +53,5 @@ The roadmap is a living document and will be modified as the project progresses.
 
 <br>
 <a href="https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md"><kbd><br><b style="color:#44AAFF">   View our Full roadmap   </b><br><br></kbd><a> 
+<br>
+The roadmap is a living document and will be modified as the project progresses.<br>
