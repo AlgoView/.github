@@ -4,8 +4,8 @@
 This is a project for and by algorithmic trading enthousiasts and quantitative analysts that aim to take their creativity to the next level.<br>
 On robust systems we aim to create an easy to use environment usings the well known **Tradingview charts**.
 
-We do this as much of the work in building good algorithms is done with good analyses, and visualisation.<br>
-Calculations that are done faster, speeds up the process of this type of developing.
+Much of the work in building good algorithms is done with visual analyses, this requires quick visualisation of algorithms with heavy calculations.<br>
+Calculations that are done faster, speeds up the process of this type of developing, and broadens the capabilities of the developer.
 
 This project is **Opensource** and open for people to join at all times
 
