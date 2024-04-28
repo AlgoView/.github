@@ -10,10 +10,11 @@ Calculations that are done faster, speeds up the process of this type of develop
 Rendering algorithms and storing market data on self-deployed systems, giving its owner control and capabilities in automation beyond conventional software currently available is the aim of this project.<br>
 
 <br>
-This project is <b>Opensource</b> and open for people to join at all times.<br> We aim to create a community of developers that can help each other and share their knowledge and experience.
+This project is <b>Opensource</b> and open for people to join at all times.
 
 ## Get Involved
 Right now, AlgoView is in its starting phase, and there will be excellent "good first issue" opportunities,<br>
+We aim to create a community of developers that can help each other and share their knowledge and experience.<br>
 if you're looking to get involved, join us on discord, or contact the administrators to get started.
 
 
