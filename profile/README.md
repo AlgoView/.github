@@ -9,6 +9,7 @@ Calculations that are done faster, speeds up the process of this type of develop
 
 Rendering algorithms and storing market data on self-deployed systems, giving its owner control and capabilities in automation beyond conventional software currently available is the aim of this project.<br>
 
+<br>
 This project is **Opensource** and open for people to join at all times.<br> We aim to create a community of developers that can help each other and share their knowledge and experience.
 
 ## Get Involved
