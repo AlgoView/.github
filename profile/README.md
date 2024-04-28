@@ -14,9 +14,7 @@ Right now, AlgoView is in its starting phase, and there will be excellent "good 
 Contact the administrators to get started.
 
 
-<a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd>
-<a> <a href="mailto: info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an email  </b><br><br></kbd>
-<a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on github  </b><br><br></kbd><a> 
+<a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd><a> <a href="mailto: info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an email  </b><br><br></kbd><a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on github  </b><br><br></kbd><a> 
 
 ## Main objectives
 ### [Collect `market and chain data`](https://github.com/AlgoView/.github/blob/main/project/AV-COLLECT.md)
