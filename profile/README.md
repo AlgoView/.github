@@ -36,5 +36,3 @@ Contact the administrators to get started.
   * Apply algorithms on portofolio management
 * Manual Trading tools 
 * Server Status tools
-
-</div>
