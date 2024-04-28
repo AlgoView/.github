@@ -51,7 +51,4 @@ if you're looking to get involved, join us on discord, or contact the administra
 
 ### [Phase 3 `Machine learning tools, Data screening and server management tools`](https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md#Phase-3)
 
-<br>
-The roadmap is a living document and will be modified as the project progresses.<br>
-
 <a href="https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md"><kbd><br><b style="color:#44AAFF">   View our Full roadmap   </b><br><br></kbd><a> 
