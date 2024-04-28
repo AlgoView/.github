@@ -3,7 +3,7 @@
 # ![The Algoview Project](https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg)
 
 
-
+</div>
 ## Introduction
 This is a project for and by algorithmic trading enthousiasts and quantitative analysts that aim to take their creativity to the next level.
 On robust systems we aim to create an easy to use environment usings the well known Tradingview charts.
