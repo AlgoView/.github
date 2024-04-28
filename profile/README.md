@@ -1,4 +1,9 @@
+<div style="border-radius: 1rem; border: 1px solid #444c56; padding: 1rem; background-color: #353535;">
+
 # ![The Algoview Project](https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg)
+
+
+
 ## Introduction
 This is a project for and by algorithmic trading enthousiasts and quantitative analysts that aim to take their creativity to the next level.
 On robust systems we aim to create an easy to use environment usings the well known Tradingview charts.
@@ -31,3 +36,5 @@ Contact the administrators to get started.
   * Apply algorithms on portofolio management
 * Manual Trading tools 
 * Server Status tools
+
+</div>
