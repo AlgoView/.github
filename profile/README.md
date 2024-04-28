@@ -10,8 +10,8 @@ Calculations that are done faster, speeds up the process of this type of develop
 This project is **Opensource** and open for people to join at all times
 
 ## Get Involved
-Right now, AlgoView is in its starting phase, and there will be excellent "good first issue" opportunities, if you're looking to get involved.
-Contact the administrators to get started.
+Right now, AlgoView is in its starting phase, and there will be excellent "good first issue" opportunities,<br>
+if you're looking to get involved, join us on discord, or contact the administrators to get started.
 
 
 <a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd><a> <a href="mailto: info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an email  </b><br><br></kbd><a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on github  </b><br><br></kbd><a> 
