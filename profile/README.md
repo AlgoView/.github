@@ -7,9 +7,9 @@ On robust systems we aim to create an easy to use environment usings the well kn
 Much of the work in building algorithms is done with visual analyses, this requires quick visualisation of intensive computations.<br>
 Calculations that are done faster, speeds up the process of this type of developing, and broadens the capabilities of the developer.
 
-Rendering algorithms and storing market data on self-deployed systems, giving its owner control and capabilities beyond conventional software currently available is the aim of this project.<br>
+Rendering algorithms and storing market data on self-deployed systems, giving its owner control and capabilities in automation beyond conventional software currently available is the aim of this project.<br>
 
-This project is **Opensource** and open for people to join at all times. We aim to create a community of developers that can help each other and share their knowledge and experience.
+This project is **Opensource** and open for people to join at all times.<br> We aim to create a community of developers that can help each other and share their knowledge and experience.
 
 ## Get Involved
 Right now, AlgoView is in its starting phase, and there will be excellent "good first issue" opportunities,<br>
