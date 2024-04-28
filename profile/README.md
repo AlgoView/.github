@@ -1,6 +1,4 @@
-<div style="background-color: #353535;">
-<img src="https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg" alt="AlgoView Project Banner" style="width: 100%; border-radius: 0.25rem;"/>
-</div>
+# ![The Algoview Project](https://github.com/AlgoView/.github/blob/main/resources/AV-PROJECT_banner.jpg)
 
 ## Introduction
 This is a project for and by algorithmic trading enthousiasts and quantitative analysts that aim to take their creativity to the next level.
