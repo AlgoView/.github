@@ -23,12 +23,11 @@ if you're looking to get involved, join us on discord, or contact the administra
 ## Main objectives
 ### [Collect `market and chain data`](https://github.com/AlgoView/.github/blob/main/project/AV-COLLECT.md)
 * Store and Access more than OHLCV Data
-* Create usefull derivatives
+* Creating usefull derivatives
 ### [Simulate `Backtesting, projection testing, Analythical tools`](https://github.com/AlgoView/.github/blob/main/project/AV-SIMULATE.md)
 * Enable unlimited scripting capabilities with python
 * Automated adaption & fitiing
 * Machine Learning
-* ...
 ### [Automate `Exchange connection with Portofolio management tools`](https://github.com/AlgoView/.github/blob/main/project/AV-AUTOMATE.md)
 * Establish a secure two way connection with exchanges
 * Automated and manual tools to manage portofolio's
@@ -38,4 +37,21 @@ if you're looking to get involved, join us on discord, or contact the administra
   * Apply algoritms on trading pairs
   * Apply algorithms on portofolio management
 * Manual Trading tools 
-* Server Status tools
+* Server monitoring and management tools
+
+## Roadmap
+The roadmap is a living document and will be modified as the project progresses.<br>
+<br>
+
+### [Phase 0 `Manual trading tools, single pair data gathering`](https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md#Phase-0)
+
+
+### [Phase 1 `Automated trading tools, multi exchange data gathering`](https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md#Phase-1)
+
+
+### [Phase 2 `Portfolio automation tools, Beyond OHLCV data`](https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md#Phase-2)
+
+### [Phase 3 `Machine learning tools, Data screening and server management tools`](https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md#Phase-3)
+
+<br>
+<a href="https://github.com/AlgoView/.github/blob/main/project/ROADMAP.md"><kbd><br><b style="color:#44AAFF">   View our Full roadmap   </b><br><br></kbd><a> 
