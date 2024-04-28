@@ -13,6 +13,8 @@ This project is **Opensource** and open for people to join at all times
 Right now, AlgoView is in its starting phase, and there will be excellent "good first issue" opportunities, if you're looking to get involved.
 Contact the administrators to get started.
 
+[<kbd> <br> Join us on Discord <br> </kbd>][https://discord.gg/p8QvxM4Y]
+
 ## Main objectives
 ### [Collect `market and chain data`](https://github.com/AlgoView/.github/blob/main/project/AV-COLLECT.md)
 * Store and Access more than OHLCV Data
