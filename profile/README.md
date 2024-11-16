@@ -12,7 +12,7 @@ As an **open-source** project, AlgoView thrives on collaboration and community e
 
 AlgoView is currently in its foundational phase, presenting an excellent opportunity for passionate individuals to make a significant impact from the outset. We have a variety of "good first issue" tasks that are perfect for newcomers eager to dive in and seasoned developers looking to share their expertise.
 
-<a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd><a> <a href="mailto: info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an email  </b><br><br></kbd><a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on github  </b><br><br></kbd><a> 
+<a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd></a> <a href="mailto:info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an Email  </b><br><br></kbd></a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on GitHub  </b><br><br></kbd></a> 
 
 ## Main Objectives
 
@@ -46,15 +46,49 @@ Our project is structured around four core objectives, each integral to building
 
 ---
 
-![AlgoView Architecture](https://raw.githubusercontent.com/AlgoView/Project-scope/main/img/AVAPI.jpg)
+## AlgoView Architecture & Technologies Used
 
-**The main tasks have been divided into four servers for the following reasons:**
+![AlgoView Architecture](https://raw.githubusercontent.com/AlgoView/.github/refs/heads/main/resources/AV-SERVERS_map.jpg)
 
-> **Structure:** Enhances project organization and simplifies version control by compartmentalizing different components.
+The AlgoView platform is architected around four main components, each designed to function as a separate server or service. This modular approach enhances the overall robustness, scalability, and flexibility of the system.
+
+**Technologies Utilized:**
+
+- **Frontend Development:** We are using **Flutter**, an open-source UI software development kit created by Google. Flutter allows us to build natively compiled applications for web, desktop, and mobile from a single codebase, ensuring a consistent user experience across all platforms.
+
+- **Backend Services:** Our backend is powered by **Python**, leveraging its rich ecosystem of libraries and frameworks ideal for data analysis, machine learning, and web development. Python's versatility and ease of use make it an excellent choice for implementing complex backend logic.
+
+- **Databases:** We utilize **PostgreSQL** for our database needs. PostgreSQL is a powerful, open-source object-relational database system known for its reliability, robustness, and performance. It is well-suited for handling the extensive and complex data structures required for algorithmic trading applications.
+
+**Server Breakdown:**
+
+1. **AV-Aggregate Server:**
+
+   - **Function:** Aggregates market and blockchain data, processes it, and stores it in the PostgreSQL database.
+   - **Technologies:** Python for data collection and processing; PostgreSQL for data storage.
+
+2. **AV-Simulate Server:**
+
+   - **Function:** Provides backtesting, simulation, and analytical tools for algorithm development and evaluation.
+   - **Technologies:** Python for implementing simulation algorithms and machine learning models; PostgreSQL for storing simulation results and configurations.
+
+3. **AV-Automate Server:**
+
+   - **Function:** Manages secure connections to exchanges, executes trades, and handles portfolio management tasks.
+   - **Technologies:** Python for API integrations with exchanges and automation logic; PostgreSQL for storing user credentials (securely encrypted), trade logs, and portfolio data.
+
+4. **AV-Visualize Server:**
+
+   - **Function:** Acts as the user interface and controller, providing interactive visualizations, trading tools, and system monitoring.
+   - **Technologies:** Flutter for frontend development, delivering a responsive and feature-rich user interface; communicates with backend services via APIs.
+
+**Reasons for Modular Architecture:**
+
+> **Structure:** Enhances project organization and simplifies version control by compartmentalizing different components. Each server can be developed, tested, and deployed independently, allowing for more efficient workflows.
 >
-> **Security:** Improves security by isolating tasks and using APIs for communication, reducing the risk of unauthorized access.
+> **Security:** Improves security by isolating tasks and using APIs for communication, reducing the risk of unauthorized access. Sensitive operations, like trade execution and handling user credentials, are confined to specific servers with stringent security measures.
 >
-> **Stability:** Facilitates fault isolation, allowing individual components to be updated or reverted without impacting the entire system.
+> **Stability:** Facilitates fault isolation, allowing individual components to be updated or reverted without impacting the entire system. This isolation minimizes downtime and ensures a more resilient platform.
 >
 > **Flexibility:** Empowers users to deploy servers in environments that best suit their needs, whether at home or on dedicated services, based on requirements like uptime, connection speed, computational capability, and security.
 
