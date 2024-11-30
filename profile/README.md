@@ -18,7 +18,7 @@ AlgoView is currently in its foundational phase, presenting an excellent opportu
 
 Our project is structured around four core objectives, each integral to building a comprehensive and versatile platform:
 
-### [Aggregate `Market and Chain Data`](https://github.com/AlgoView/.github/blob/main/project/AV-AGGREGATE.md)
+### [Collect `Market and Chain Data`](https://github.com/AlgoView/.github/blob/main/project/AV-Collect.md)
 
 - **Comprehensive Data Collection:** Go beyond traditional Open-High-Low-Close-Volume (OHLCV) data by aggregating extensive market and blockchain (chain) data, including order book depth, transaction history, and on-chain metrics.
 - **Derivative Creation:** Develop and store useful derivatives and technical indicators that provide deeper insights into market dynamics, enhancing analytical capabilities for users.
@@ -62,9 +62,9 @@ The AlgoView platform is architected around four main components, each designed 
 
 **Server Breakdown:**
 
-1. **AV-Aggregate Server:**
+1. **AV-Collect Server:**
 
-   - **Function:** Aggregates market and blockchain data, processes it, and stores it in the PostgreSQL database.
+   - **Function:** Collects market and blockchain data, processes it, and stores it in the PostgreSQL database.
    - **Technologies:** Python for data collection and processing; PostgreSQL for data storage.
 
 2. **AV-Simulate Server:**
@@ -96,13 +96,13 @@ The AlgoView platform is architected around four main components, each designed 
 
 ## Roadmap
 
-To kickstart the project, our initial focus will be on **AV-Visualize** and **AV-Aggregate**, as they form the foundation upon which **AV-Automate** and **AV-Simulate** will build. We will utilize TradingView charts initially, transitioning to a custom charting module as the project evolves.
+To kickstart the project, our initial focus will be on **AV-Visualize** and **AV-Collect**, as they form the foundation upon which **AV-Automate** and **AV-Simulate** will build. We will utilize TradingView charts initially, transitioning to a custom charting module as the project evolves.
 
 Our approach involves first developing manual trading tools within **AV-Visualize** that interact with **AV-Automate** to execute trades on users' accounts via APIs.
 
 ### Phase 0: Initial Setup and Data Aggregation
 
-**AV-Aggregate** and **AV-Visualize**
+**AV-Collect** and **AV-Visualize**
 
 - **Market Data Integration:** Establish connections with various exchanges to collect real-time and historical market data.
 - **Basic Visualization:** Implement initial charting capabilities using third-party tools like TradingView to display market data.
@@ -110,7 +110,7 @@ Our approach involves first developing manual trading tools within **AV-Visualiz
 
 ### Phase 1: Enhanced Custom Data Charting
 
-**AV-Aggregate** and **AV-Visualize**
+**AV-Collect** and **AV-Visualize**
 
 - **Custom Charting Module Development:** Create a bespoke charting tool tailored to our specific requirements, moving beyond third-party solutions.
 - **Advanced Data Visualization:** Introduce complex chart types, technical indicators, and customizable visual elements.
@@ -118,7 +118,7 @@ Our approach involves first developing manual trading tools within **AV-Visualiz
 
 ### Phase 2: Manual Trading Tool Implementation
 
-**AV-Aggregate**
+**AV-Collect**
 
 - **User Data Integration:** Fetch and store current and historical orders, trades, and positions from users' exchange accounts via **AV-Automate**.
 - **Portfolio Data Management:** Maintain detailed records of portfolio balances, transaction fees, and profit/loss statements.
@@ -143,7 +143,7 @@ Our approach involves first developing manual trading tools within **AV-Visualiz
 
 ### Phase 4: Platform Expansion and Feature Enhancement
 
-**AV-Aggregate**
+**AV-Collect**
 
 - **Exchange and Pair Expansion:** Integrate additional trading pairs and exchanges to broaden market coverage.
 - **Market Depth Data Collection:** Incorporate historical market depth information for more granular analysis.
