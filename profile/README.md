@@ -2,7 +2,7 @@
 
 ## Mission Statement
 
-To empower a global community to collaboratively design, build, and provide a Web3-based platform that enables users to create and share advanced trading algorithms and market analysis tools.
+To empower a global community to collaboratively design, build, and provide a Web3-based platform that enables users to create and share and market advanced trading algorithms and market analysis tools.
 
 ---
 
