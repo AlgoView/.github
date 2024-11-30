@@ -6,6 +6,23 @@ Welcome to the **AlgoView Project**, an initiative designed for algorithmic trad
 
 We believe that the cornerstone of successful algorithmic trading lies in meticulous analysis and insightful visualization. By streamlining calculations and enhancing computational speed, we aim to accelerate the development process, enabling traders and analysts to iterate rapidly and refine their strategies with ease.
 
+---
+
+## Get Involved
+
+AlgoView is currently in its foundational phase, presenting an excellent opportunity for passionate individuals to make a significant impact from the outset.
+Want to work togheter and get things done? No-coder, seasoned developer or daydreamer, your contributions are highly valued.
+
+<a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd></a> <a href="mailto:info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an Email  </b><br><br></kbd></a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on GitHub  </b><br><br></kbd></a> 
+
+---
+
+## Roadmap
+
+Our initial focus is on developing the visualization and data collection components, laying the groundwork for future automation and simulation tools. We aim to first implement manual trading tools that interact with exchanges, eventually expanding to automated trading and advanced analytics.
+
+--- 
+
 ## Main Objectives
 
 Our project is structured around four core objectives, each integral to building a comprehensive and versatile platform:
@@ -35,15 +52,3 @@ Our project is structured around four core objectives, each integral to building
 - **Server Status Monitoring:** Include tools to monitor server performance and system health in real-time.
 
 ---
-
-## Roadmap
-
-Our initial focus is on developing the visualization and data collection components, laying the groundwork for future automation and simulation tools. We aim to first implement manual trading tools that interact with exchanges, eventually expanding to automated trading and advanced analytics.
-
----
-## Get Involved
-
-AlgoView is currently in its foundational phase, presenting an excellent opportunity for passionate individuals to make a significant impact from the outset.
-Want to work togheter and get things done? No-coder, seasoned developer or daydreamer, your contributions are highly valued.
-
-<a href="https://discord.gg/p8QvxM4Y"><kbd><br>  <b style="color:#44AAFF">Join us on Discord  </b><br><br></kbd></a> <a href="mailto:info@algoview.org"><kbd><br>  <b style="color:#44AAFF">Send an Email  </b><br><br></kbd></a> <a href="https://github.com/orgs/AlgoView/discussions"><kbd><br>  <b style="color:#44AAFF">Discussions on GitHub  </b><br><br></kbd></a> 
