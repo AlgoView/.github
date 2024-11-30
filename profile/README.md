@@ -96,7 +96,7 @@ The AlgoView platform is architected around four main components, each designed 
 
 ## Roadmap
 
-To kickstart the project, our initial focus will be on **AV-Visualize** and **AV-Collect**, as they form the foundation upon which **AV-Automate** and **AV-Simulate** will build. We will utilize TradingView charts initially, transitioning to a custom charting module as the project evolves.
+To kickstart the project, our initial focus will be on **AV-Visualize** and **AV-Collect**, as they form the foundation upon which **AV-Automate** and **AV-Simulate** will build. We will utilize a public charting tool initially, transitioning to a custom charting module as the project evolves.
 
 Our approach involves first developing manual trading tools within **AV-Visualize** that interact with **AV-Automate** to execute trades on users' accounts via APIs.
 
@@ -105,7 +105,7 @@ Our approach involves first developing manual trading tools within **AV-Visualiz
 **AV-Collect** and **AV-Visualize**
 
 - **Market Data Integration:** Establish connections with various exchanges to collect real-time and historical market data.
-- **Basic Visualization:** Implement initial charting capabilities using third-party tools like TradingView to display market data.
+- **Basic Visualization:** Implement initial charting capabilities using third-party tools like syncfusion_flutter_charts to display market data.
 - **User Interface Development:** Begin crafting a user-friendly interface focusing on accessibility and ease of navigation.
 
 ### Phase 1: Enhanced Custom Data Charting
